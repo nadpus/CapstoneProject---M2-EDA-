@@ -9,7 +9,7 @@ Sebuah perusahaan memiliki kumpulan data dari transaksi customer selama dua tahu
 
 ## **Data Understanding**
 
-Untuk menjawab rumusan masalah diatas, maka saya akan menganalisis data yang sudah dikumpulkan oleh perusahaan. Dataset dapat diakses pada xx[[sumber berikut]](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis). Dataset ini memiliki 29 variable yang dikelompokkan menjadi 5 kelompok dengan detail sebagai berikut:
+Untuk menjawab rumusan masalah diatas, maka saya akan menganalisis data yang sudah dikumpulkan oleh perusahaan. Dataset dapat diakses pada [[sumber berikut]](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis). Dataset ini memiliki 29 variable yang dikelompokkan menjadi 5 kelompok dengan detail sebagai berikut:
 
 * People
     - ID: ID unik customer
